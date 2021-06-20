@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "CosmosDbConnection": "AccountEndpoint=https://mynetwork01.documents.azure.com:443/;AccountKey=drjMayzIVIUDHcvPMMiE29PiSTh3B4z1KDJLDLfBqDcqWkN2cBIW0IwFGjMNBYubISFCWLzchXDFifuE7hlArA==;"
+  }
+}
